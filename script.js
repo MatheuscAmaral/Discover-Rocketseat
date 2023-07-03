@@ -8,4 +8,6 @@ function toogleMode() {
   else {
     html.classList.add('light')
   }
+
+  
 }
